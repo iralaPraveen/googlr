@@ -152,4 +152,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-./Portfolio-React/src/Components/Contact/Contact.jsx
+./Components/Contact/Contact.jsx
